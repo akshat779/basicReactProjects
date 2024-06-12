@@ -15,7 +15,7 @@ function BackgroundChanger(){
         <>
         <section style={{backgroundColor,color:textColor}}>
             <button onClick={handleClick} style={{buttonStyle,color:textColor,border:`2px solid ${textColor}`,}}>
-            {backgroundColor === "#1b1b1b" ? "Black Theme" : "White Theme"} 
+            {backgroundColor === "#1b1b1b" ? "Black Theme" : "White Theme☀️"} 
             </button>
             <section className="content">
                 <div>
